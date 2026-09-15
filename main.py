@@ -1,0 +1,1 @@
+print("Secure memo 시작!")
